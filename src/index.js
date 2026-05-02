@@ -3,6 +3,8 @@ require('dotenv').config();
 const { Client, Collection, GatewayIntentBits, ActivityType } = require('discord.js');
 const fs = require('fs');
 const path = require('path');
+const { episodes, quotes } = require('../data/data.json');
+
 
 // --- Status helpers ---
 
@@ -11,7 +13,11 @@ const path = require('path');
  * Currently returns the current datetime stamp.
  */
 function getStatus() {
-    return new Date().toISOString();
+    const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+    const episode = episodes.find(ep => ep.id === randomQuote.episode);
+
+    // return `"${randomQuote.quote}" (${episode.name})`;
+    return `"${randomQuote.quote}"`
 }
 
 /**
@@ -19,8 +25,9 @@ function getStatus() {
  */
 function updateStatus(client) {
     const status = getStatus();
+    // set the status bubble
     client.user.setPresence({
-        activities: [{ name: status, type: ActivityType.Watching }],
+        activities: [{ name: status }],
         status: 'online',
     });
     console.log(`[Status] Updated to: ${status}`);
@@ -45,9 +52,9 @@ for (const file of commandFiles) {
 client.once('ready', () => {
     console.log(`Logged in as ${client.user.tag}`);
 
-    // Set status immediately on startup, then every 20 minutes
+    // Set status immediately on startup, then every 10 minutes
     updateStatus(client);
-    setInterval(() => updateStatus(client), 20 * 60 * 1000);
+    setInterval(() => updateStatus(client), 10 * 60 * 1000);
 });
 
 client.on('interactionCreate', async interaction => {

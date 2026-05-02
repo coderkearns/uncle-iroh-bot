@@ -1,0 +1,3832 @@
+{
+  "episodes": [
+    {
+      "id": 0,
+      "name": "The Boy in the Iceberg",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "1"
+    },
+    {
+      "id": 1,
+      "name": "The Avatar Returns",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "2"
+    },
+    {
+      "id": 2,
+      "name": "The Southern Air Temple",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "3"
+    },
+    {
+      "id": 3,
+      "name": "The Warriors of Kyoshi",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "4"
+    },
+    {
+      "id": 4,
+      "name": "The King of Omashu",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "5"
+    },
+    {
+      "id": 5,
+      "name": "Imprisoned",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "6"
+    },
+    {
+      "id": 6,
+      "name": "Winter Solstice, Part 1: The Spirit World",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "7"
+    },
+    {
+      "id": 7,
+      "name": "Winter Solstice, Part 2: Avatar Roku",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "8"
+    },
+    {
+      "id": 8,
+      "name": "The Waterbending Scroll",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "9"
+    },
+    {
+      "id": 9,
+      "name": "Jet",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "10"
+    },
+    {
+      "id": 10,
+      "name": "The Great Divide",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "11"
+    },
+    {
+      "id": 11,
+      "name": "The Storm",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "12"
+    },
+    {
+      "id": 12,
+      "name": "The Blue Spirit",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "13"
+    },
+    {
+      "id": 13,
+      "name": "The Fortuneteller",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "14"
+    },
+    {
+      "id": 14,
+      "name": "Bato of the Water Tribe",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "15"
+    },
+    {
+      "id": 15,
+      "name": "The Deserter",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "16"
+    },
+    {
+      "id": 16,
+      "name": "The Northern Air Temple",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "17"
+    },
+    {
+      "id": 17,
+      "name": "The Waterbending Master",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "18"
+    },
+    {
+      "id": 18,
+      "name": "The Siege of the North, Part 1",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "19"
+    },
+    {
+      "id": 19,
+      "name": "The Siege of the North, Part 2",
+      "show": "ALTA",
+      "book": "1",
+      "episode": "20"
+    },
+    {
+      "id": 20,
+      "name": "The Avatar State",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "1"
+    },
+    {
+      "id": 21,
+      "name": "The Cave of Two Lovers",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "2"
+    },
+    {
+      "id": 22,
+      "name": "Return to Omashu",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "3"
+    },
+    {
+      "id": 23,
+      "name": "The Swamp",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "4"
+    },
+    {
+      "id": 24,
+      "name": "Avatar Day",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "5"
+    },
+    {
+      "id": 25,
+      "name": "The Blind Bandit",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "6"
+    },
+    {
+      "id": 26,
+      "name": "Zuko Alone",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "7"
+    },
+    {
+      "id": 27,
+      "name": "The Chase",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "8"
+    },
+    {
+      "id": 28,
+      "name": "Bitter Work",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "9"
+    },
+    {
+      "id": 29,
+      "name": "The Library",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "10"
+    },
+    {
+      "id": 30,
+      "name": "The Desert",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "11"
+    },
+    {
+      "id": 31,
+      "name": "The Serpent's Pass",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "12"
+    },
+    {
+      "id": 32,
+      "name": "The Drill",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "13"
+    },
+    {
+      "id": 33,
+      "name": "City of Walls and Secrets",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "14"
+    },
+    {
+      "id": 34,
+      "name": "The Tales of Ba Sing Se",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "15"
+    },
+    {
+      "id": 35,
+      "name": "Appa's Lost Days",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "16"
+    },
+    {
+      "id": 36,
+      "name": "Lake Laogai",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "17"
+    },
+    {
+      "id": 37,
+      "name": "The Earth King",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "18"
+    },
+    {
+      "id": 38,
+      "name": "The Guru",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "19"
+    },
+    {
+      "id": 39,
+      "name": "The Crossroads of Destiny",
+      "show": "ALTA",
+      "book": "2",
+      "episode": "20"
+    },
+    {
+      "id": 40,
+      "name": "The Awakening",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "1"
+    },
+    {
+      "id": 41,
+      "name": "The Headband",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "2"
+    },
+    {
+      "id": 42,
+      "name": "The Painted Lady",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "3"
+    },
+    {
+      "id": 43,
+      "name": "Sokka's Master",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "4"
+    },
+    {
+      "id": 44,
+      "name": "The Beach",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "5"
+    },
+    {
+      "id": 45,
+      "name": "The Avatar and the Fire Lord",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "6"
+    },
+    {
+      "id": 46,
+      "name": "The Runaway",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "7"
+    },
+    {
+      "id": 47,
+      "name": "The Puppetmaster",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "8"
+    },
+    {
+      "id": 48,
+      "name": "Nightmares and Daydreams",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "9"
+    },
+    {
+      "id": 49,
+      "name": "The Day of Black Sun, Part 1: The Invasion",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "10"
+    },
+    {
+      "id": 50,
+      "name": "The Day of Black Sun, Part 2: The Eclipse",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "11"
+    },
+    {
+      "id": 51,
+      "name": "The Western Air Temple",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "12"
+    },
+    {
+      "id": 52,
+      "name": "The Firebending Masters",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "13"
+    },
+    {
+      "id": 53,
+      "name": "The Boiling Rock, Part 1",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "14"
+    },
+    {
+      "id": 54,
+      "name": "The Boiling Rock, Part 2",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "15"
+    },
+    {
+      "id": 55,
+      "name": "The Southern Raiders",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "16"
+    },
+    {
+      "id": 56,
+      "name": "The Ember Island Players",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "17"
+    },
+    {
+      "id": 57,
+      "name": "Sozin's Comet, Part 1: The Phoenix King",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "18"
+    },
+    {
+      "id": 58,
+      "name": "Sozin's Comet, Part 2: The Old Masters",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "19"
+    },
+    {
+      "id": 59,
+      "name": "Sozin's Comet, Part 3: Avatar Aang",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "20"
+    },
+    {
+      "id": 60,
+      "name": "Sozin's Comet",
+      "show": "ALTA",
+      "book": "3",
+      "episode": "21"
+    },
+    {
+      "id": 61,
+      "name": "Welcome to Republic City",
+      "show": "TLOK",
+      "book": "1",
+      "episode": "1"
+    },
+    {
+      "id": 62,
+      "name": "A Leaf in the Wind",
+      "show": "TLOK",
+      "book": "1",
+      "episode": "2"
+    },
+    {
+      "id": 63,
+      "name": "The Revelation",
+      "show": "TLOK",
+      "book": "1",
+      "episode": "3"
+    },
+    {
+      "id": 64,
+      "name": "The Voice in the Night",
+      "show": "TLOK",
+      "book": "1",
+      "episode": "4"
+    },
+    {
+      "id": 65,
+      "name": "The Spirit of Competition",
+      "show": "TLOK",
+      "book": "1",
+      "episode": "5"
+    },
+    {
+      "id": 66,
+      "name": "And the Winner Is...",
+      "show": "TLOK",
+      "book": "1",
+      "episode": "6"
+    },
+    {
+      "id": 67,
+      "name": "The Aftermath",
+      "show": "TLOK",
+      "book": "1",
+      "episode": "7"
+    },
+    {
+      "id": 68,
+      "name": "When Extremes Meet",
+      "show": "TLOK",
+      "book": "1",
+      "episode": "8"
+    },
+    {
+      "id": 69,
+      "name": "Out of the Past",
+      "show": "TLOK",
+      "book": "1",
+      "episode": "9"
+    },
+    {
+      "id": 70,
+      "name": "Turning the Tides",
+      "show": "TLOK",
+      "book": "1",
+      "episode": "10"
+    },
+    {
+      "id": 71,
+      "name": "Skeletons in the Closet",
+      "show": "TLOK",
+      "book": "1",
+      "episode": "11"
+    },
+    {
+      "id": 72,
+      "name": "Endgame",
+      "show": "TLOK",
+      "book": "1",
+      "episode": "12"
+    },
+    {
+      "id": 73,
+      "name": "Rebel Spirit",
+      "show": "TLOK",
+      "book": "2",
+      "episode": "1"
+    },
+    {
+      "id": 74,
+      "name": "The Southern Lights",
+      "show": "TLOK",
+      "book": "2",
+      "episode": "2"
+    },
+    {
+      "id": 75,
+      "name": "Civil Wars, Part 1",
+      "show": "TLOK",
+      "book": "2",
+      "episode": "3"
+    },
+    {
+      "id": 76,
+      "name": "Civil Wars, Part 2",
+      "show": "TLOK",
+      "book": "2",
+      "episode": "4"
+    },
+    {
+      "id": 77,
+      "name": "Peacekeepers",
+      "show": "TLOK",
+      "book": "2",
+      "episode": "5"
+    },
+    {
+      "id": 78,
+      "name": "The Sting",
+      "show": "TLOK",
+      "book": "2",
+      "episode": "6"
+    },
+    {
+      "id": 79,
+      "name": "Beginnings, Part 1",
+      "show": "TLOK",
+      "book": "2",
+      "episode": "7"
+    },
+    {
+      "id": 80,
+      "name": "Beginnings, Part 2",
+      "show": "TLOK",
+      "book": "2",
+      "episode": "8"
+    },
+    {
+      "id": 81,
+      "name": "The Guide",
+      "show": "TLOK",
+      "book": "2",
+      "episode": "9"
+    },
+    {
+      "id": 82,
+      "name": "A New Spiritual Age",
+      "show": "TLOK",
+      "book": "2",
+      "episode": "10"
+    },
+    {
+      "id": 83,
+      "name": "Night of a Thousand Stars",
+      "show": "TLOK",
+      "book": "2",
+      "episode": "11"
+    },
+    {
+      "id": 84,
+      "name": "Harmonic Convergence",
+      "show": "TLOK",
+      "book": "2",
+      "episode": "12"
+    },
+    {
+      "id": 85,
+      "name": "Darkness Falls",
+      "show": "TLOK",
+      "book": "2",
+      "episode": "13"
+    },
+    {
+      "id": 86,
+      "name": "Light in the Dark",
+      "show": "TLOK",
+      "book": "2",
+      "episode": "14"
+    },
+    {
+      "id": 87,
+      "name": "A Breath of Fresh Air",
+      "show": "TLOK",
+      "book": "3",
+      "episode": "1"
+    },
+    {
+      "id": 88,
+      "name": "Rebirth",
+      "show": "TLOK",
+      "book": "3",
+      "episode": "2"
+    },
+    {
+      "id": 89,
+      "name": "The Earth Queen",
+      "show": "TLOK",
+      "book": "3",
+      "episode": "3"
+    },
+    {
+      "id": 90,
+      "name": "In Harm's Way",
+      "show": "TLOK",
+      "book": "3",
+      "episode": "4"
+    },
+    {
+      "id": 91,
+      "name": "The Metal Clan",
+      "show": "TLOK",
+      "book": "3",
+      "episode": "5"
+    },
+    {
+      "id": 92,
+      "name": "Old Wounds",
+      "show": "TLOK",
+      "book": "3",
+      "episode": "6"
+    },
+    {
+      "id": 93,
+      "name": "Original Airbenders",
+      "show": "TLOK",
+      "book": "3",
+      "episode": "7"
+    },
+    {
+      "id": 94,
+      "name": "The Terror Within",
+      "show": "TLOK",
+      "book": "3",
+      "episode": "8"
+    },
+    {
+      "id": 95,
+      "name": "The Stakeout",
+      "show": "TLOK",
+      "book": "3",
+      "episode": "9"
+    },
+    {
+      "id": 96,
+      "name": "Long Live the Queen",
+      "show": "TLOK",
+      "book": "3",
+      "episode": "10"
+    },
+    {
+      "id": 97,
+      "name": "The Ultimatum",
+      "show": "TLOK",
+      "book": "3",
+      "episode": "11"
+    },
+    {
+      "id": 98,
+      "name": "Enter the Void",
+      "show": "TLOK",
+      "book": "3",
+      "episode": "12"
+    },
+    {
+      "id": 99,
+      "name": "Venom of the Red Lotus",
+      "show": "TLOK",
+      "book": "3",
+      "episode": "13"
+    },
+    {
+      "id": 100,
+      "name": "After All These Years",
+      "show": "TLOK",
+      "book": "4",
+      "episode": "1"
+    },
+    {
+      "id": 101,
+      "name": "Korra Alone",
+      "show": "TLOK",
+      "book": "4",
+      "episode": "2"
+    },
+    {
+      "id": 102,
+      "name": "The Coronation",
+      "show": "TLOK",
+      "book": "4",
+      "episode": "3"
+    },
+    {
+      "id": 103,
+      "name": "The Calling",
+      "show": "TLOK",
+      "book": "4",
+      "episode": "4"
+    },
+    {
+      "id": 104,
+      "name": "Enemy at the Gates",
+      "show": "TLOK",
+      "book": "4",
+      "episode": "5"
+    },
+    {
+      "id": 105,
+      "name": "The Battle of Zaofu",
+      "show": "TLOK",
+      "book": "4",
+      "episode": "6"
+    },
+    {
+      "id": 106,
+      "name": "Reunion",
+      "show": "TLOK",
+      "book": "4",
+      "episode": "7"
+    },
+    {
+      "id": 107,
+      "name": "Remembrances",
+      "show": "TLOK",
+      "book": "4",
+      "episode": "8"
+    },
+    {
+      "id": 108,
+      "name": "Beyond the Wilds",
+      "show": "TLOK",
+      "book": "4",
+      "episode": "9"
+    },
+    {
+      "id": 109,
+      "name": "Operation Beifong",
+      "show": "TLOK",
+      "book": "4",
+      "episode": "10"
+    },
+    {
+      "id": 110,
+      "name": "Kuvira's Gambit",
+      "show": "TLOK",
+      "book": "4",
+      "episode": "11"
+    },
+    {
+      "id": 111,
+      "name": "Day of the Colossus",
+      "show": "TLOK",
+      "book": "4",
+      "episode": "12"
+    },
+    {
+      "id": 112,
+      "name": "The Last Stand",
+      "show": "TLOK",
+      "book": "4",
+      "episode": "13"
+    }
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "iroh_js"
+    },
+    {
+      "id": 1,
+      "name": "location:earth_nation"
+    },
+    {
+      "id": 2,
+      "name": "location:fire_nation"
+    },
+    {
+      "id": 3,
+      "name": "location:near_southern water tribe"
+    },
+    {
+      "id": 4,
+      "name": "location:port"
+    },
+    {
+      "id": 5,
+      "name": "location:south_pole"
+    },
+    {
+      "id": 6,
+      "name": "location:unknown"
+    },
+    {
+      "id": 7,
+      "name": "location:zhao's_harbor"
+    },
+    {
+      "id": 8,
+      "name": "location:zuko's_ship"
+    },
+    {
+      "id": 9,
+      "name": "to:aang"
+    },
+    {
+      "id": 10,
+      "name": "to:earth_soldier"
+    },
+    {
+      "id": 11,
+      "name": "to:fire_soldier"
+    },
+    {
+      "id": 12,
+      "name": "to:katara"
+    },
+    {
+      "id": 13,
+      "name": "to:sokka"
+    },
+    {
+      "id": 14,
+      "name": "to:unknown"
+    },
+    {
+      "id": 15,
+      "name": "to:unnamed"
+    },
+    {
+      "id": 16,
+      "name": "to:zhao"
+    },
+    {
+      "id": 17,
+      "name": "to:zuko"
+    },
+    {
+      "id": 18,
+      "name": "to:zuko's_crew"
+    },
+    {
+      "id": 19,
+      "name": "wisdom"
+    }
+  ],
+  "quotes": [
+    {
+      "id": 0,
+      "show": "ALTA",
+      "episode": 0,
+      "quote": "I won't get to finish my game?",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
+    },
+    {
+      "id": 1,
+      "show": "ALTA",
+      "episode": 0,
+      "quote": "Or it's just the celestial lights. We've been down this road before, Prince Zuko. I don't want you to get too excited over nothing. Please, sit. Why don't you enjoy a cup of calming Jasmine tea?",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
+    },
+    {
+      "id": 2,
+      "show": "ALTA",
+      "episode": 0,
+      "quote": "I'm going to bed now. Yep, a man needs his rest. Prince Zuko, you need some sleep. Even if you're right, and the Avatar is alive, you won't find him. Your father, grandfather and great-grandfather all tried and failed.",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
+    },
+    {
+      "id": 3,
+      "show": "ALTA",
+      "episode": 0,
+      "quote": "Again.",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
+    },
+    {
+      "id": 4,
+      "show": "ALTA",
+      "episode": 0,
+      "quote": "No! Power in firebending comes from the breath, not the muscles. The breath becomes energy in the body. The energy extends past your limbs and becomes: fire! Get it right this time.",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
+    },
+    {
+      "id": 5,
+      "show": "ALTA",
+      "episode": 0,
+      "quote": "No, you are impatient. You have yet to master your basics. Drill it again!",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
+    },
+    {
+      "id": 6,
+      "show": "ALTA",
+      "episode": 0,
+      "quote": "Very well, but first, I must finish my roast duck.",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
+    },
+    {
+      "id": 7,
+      "show": "ALTA",
+      "episode": 1,
+      "quote": "Hey, you mind taking this to his quarters for me?",
+      "tags": [
+        "to:zuko's_crew",
+        "to:fire_soldier",
+        "to:unnamed",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
+    },
+    {
+      "id": 8,
+      "show": "ALTA",
+      "episode": 1,
+      "quote": "Duh? Huh?",
+      "tags": [
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
+    },
+    {
+      "id": 9,
+      "show": "ALTA",
+      "episode": 1,
+      "quote": "Good news for the Fire Lord. The Fire Nation's greatest threat is just a little kid.",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
+    },
+    {
+      "id": 10,
+      "show": "ALTA",
+      "episode": 2,
+      "quote": "You mean the Avatar?",
+      "tags": [
+        "to:zuko",
+        "location:zhao's_harbor"
+      ]
+    },
+    {
+      "id": 11,
+      "show": "ALTA",
+      "episode": 2,
+      "quote": "Retired general.",
+      "tags": [
+        "to:zhao",
+        "location:zhao's_harbor"
+      ]
+    },
+    {
+      "id": 12,
+      "show": "ALTA",
+      "episode": 2,
+      "quote": "Our ship is being repaired.",
+      "tags": [
+        "to:zhao",
+        "location:zhao's_harbor"
+      ]
+    },
+    {
+      "id": 13,
+      "show": "ALTA",
+      "episode": 2,
+      "quote": "Yes. I will do that. It was incredible! What? Did we crash or something?",
+      "tags": [
+        "to:zuko",
+        "to:zhao",
+        "location:zhao's_harbor"
+      ]
+    },
+    {
+      "id": 14,
+      "show": "ALTA",
+      "episode": 2,
+      "quote": "Prince Zuko, show Commander Zhao your respect. We would be honored to join you. Do you have any ginseng tea? It's my favorite.",
+      "tags": [
+        "to:zuko",
+        "location:zhao's_harbor"
+      ]
+    },
+    {
+      "id": 15,
+      "show": "ALTA",
+      "episode": 2,
+      "quote": "Eh.. My fault, entirely.",
+      "tags": [
+        "to:zhao",
+        "location:zhao's_harbor"
+      ]
+    },
+    {
+      "id": 16,
+      "show": "ALTA",
+      "episode": 2,
+      "quote": "More tea, please.",
+      "tags": [
+        "to:zhao",
+        "location:zhao's_harbor"
+      ]
+    },
+    {
+      "id": 17,
+      "show": "ALTA",
+      "episode": 2,
+      "quote": "Prince Zuko, that's enough.",
+      "tags": [
+        "to:zuko",
+        "location:zhao's_harbor"
+      ]
+    },
+    {
+      "id": 18,
+      "show": "ALTA",
+      "episode": 2,
+      "quote": "Prince Zuko, have you forgotten what happened last time you dueled a master?",
+      "tags": [
+        "to:zuko",
+        "location:zhao's_harbor"
+      ]
+    },
+    {
+      "id": 19,
+      "show": "ALTA",
+      "episode": 2,
+      "quote": "Remember your firebending basics, Prince Zuko. They are your greatest weapons.",
+      "tags": [
+        "to:zuko",
+        "location:zhao's_harbor"
+      ]
+    },
+    {
+      "id": 20,
+      "show": "ALTA",
+      "episode": 2,
+      "quote": "Basics, Zuko! Break his root!",
+      "tags": [
+        "to:zuko",
+        "location:zhao's_harbor"
+      ]
+    },
+    {
+      "id": 21,
+      "show": "ALTA",
+      "episode": 2,
+      "quote": "No, Prince Zuko. Do not taint your victory. So this is how the great Commander Zhao acts in defeat? Disgraceful. Even in exile, my nephew is more honorable than you. Thanks again for the tea. It was delicious.",
+      "tags": [
+        "to:zuko",
+        "location:zhao's_harbor"
+      ]
+    },
+    {
+      "id": 22,
+      "show": "ALTA",
+      "episode": 2,
+      "quote": "Of course. I told you ginseng tea is my favorite.",
+      "tags": [
+        "to:zuko",
+        "location:zhao's_harbor"
+      ]
+    },
+    {
+      "id": 23,
+      "show": "ALTA",
+      "episode": 3,
+      "quote": "Well, there is news, Prince Zuko, but you might not like it. Don't get too upset.",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship"
+      ]
+    },
+    {
+      "id": 24,
+      "show": "ALTA",
+      "episode": 3,
+      "quote": "Okay then. We have no idea where he is.",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship"
+      ]
+    },
+    {
+      "id": 25,
+      "show": "ALTA",
+      "episode": 3,
+      "quote": "You really should open a window in here.",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship"
+      ]
+    },
+    {
+      "id": 26,
+      "show": "ALTA",
+      "episode": 3,
+      "quote": "Well, there have been multiple sightings of the Avatar, but he is impossible to track down.",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship"
+      ]
+    },
+    {
+      "id": 27,
+      "show": "ALTA",
+      "episode": 3,
+      "quote": "Are you going to finish that?",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship"
+      ]
+    },
+    {
+      "id": 28,
+      "show": "ALTA",
+      "episode": 6,
+      "quote": "Over here!",
+      "tags": [
+        "to:zuko",
+        "location:unknown",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 29,
+      "show": "ALTA",
+      "episode": 6,
+      "quote": "You look tired, Prince Zuko. Why don't you join me in these hot springs and soak away your troubles?",
+      "tags": [
+        "to:zuko",
+        "location:unknown",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 30,
+      "show": "ALTA",
+      "episode": 6,
+      "quote": "You should take your teacher's advice and relax a little. The temperature's just right. I heated it myself.",
+      "tags": [
+        "to:zuko",
+        "location:unknown",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 31,
+      "show": "ALTA",
+      "episode": 6,
+      "quote": "Very well!",
+      "tags": [
+        "to:zuko",
+        "location:unknown",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 32,
+      "show": "ALTA",
+      "episode": 6,
+      "quote": "Who's there? A meadow vole! I should have known. You startled me, little one. It seems I dozed off and missed my nephew's deadline, but it was a very sweet nap.",
+      "tags": [
+        "to:unnamed",
+        "location:unknown",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 33,
+      "show": "ALTA",
+      "episode": 6,
+      "quote": "Where are you taking me?",
+      "tags": [
+        "to:earth_soldier",
+        "to:unnamed",
+        "location:unknown",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 34,
+      "show": "ALTA",
+      "episode": 6,
+      "quote": "Right, but where, specifically?",
+      "tags": [
+        "to:earth_soldier",
+        "to:unnamed",
+        "location:unknown",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 35,
+      "show": "ALTA",
+      "episode": 6,
+      "quote": "Ah, the great city of Ba Sing Se.",
+      "tags": [
+        "to:earth_soldier",
+        "to:unnamed",
+        "location:unknown",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 36,
+      "show": "ALTA",
+      "episode": 6,
+      "quote": "I acknowledge my defeat at Ba Sing Se. After 600 days away from home, my men were tired, and I was tired. And I'm still tired.",
+      "tags": [
+        "to:earth_soldier",
+        "to:unnamed",
+        "location:unknown",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 37,
+      "show": "ALTA",
+      "episode": 6,
+      "quote": "Nothing. Actually, there is a bit of a problem. My old joints are sore and aching, and these shackles are too loose.",
+      "tags": [
+        "to:earth_soldier",
+        "to:unnamed",
+        "location:unknown",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 38,
+      "show": "ALTA",
+      "episode": 6,
+      "quote": "That's right. The cuffs move and jangle around and bump my wrists. It would help me if you tighten them so they wouldn't shake around so much.",
+      "tags": [
+        "to:earth_soldier",
+        "to:unnamed",
+        "location:unknown",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 39,
+      "show": "ALTA",
+      "episode": 6,
+      "quote": "Excellent form, Prince Zuko.",
+      "tags": [
+        "to:zuko",
+        "location:unknown",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 40,
+      "show": "ALTA",
+      "episode": 6,
+      "quote": "Yeah, that's true, but you are clearly outmatched.",
+      "tags": [
+        "to:earth_soldier",
+        "to:unnamed",
+        "location:unknown",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 41,
+      "show": "ALTA",
+      "episode": 7,
+      "quote": "Sailing into Fire Nation waters... Of all the foolish things you've done in your sixteen years, Prince Zuko, this is the most foolish!",
+      "tags": [
+        "to:zuko",
+        "location:earth_nation",
+        "location:zuko's_ship"
+      ]
+    },
+    {
+      "id": 42,
+      "show": "ALTA",
+      "episode": 7,
+      "quote": "Have you completely forgotten that the Fire Lord banished you? What if you're caught?",
+      "tags": [
+        "to:zuko",
+        "location:earth_nation",
+        "location:zuko's_ship"
+      ]
+    },
+    {
+      "id": 43,
+      "show": "ALTA",
+      "episode": 7,
+      "quote": "You give him too much credit. My brother is not the understanding type!",
+      "tags": [
+        "to:zuko",
+        "location:earth_nation",
+        "location:zuko's_ship"
+      ]
+    },
+    {
+      "id": 44,
+      "show": "ALTA",
+      "episode": 7,
+      "quote": "Uh, really Prince Zuko, couldn't you shoot them down with something more fragrant?",
+      "tags": [
+        "to:zuko",
+        "location:earth_nation",
+        "location:zuko's_ship"
+      ]
+    },
+    {
+      "id": 45,
+      "show": "ALTA",
+      "episode": 7,
+      "quote": "Technically you are still in Earth Kingdom waters. Turn back now and they cannot arrest you.",
+      "tags": [
+        "to:zuko",
+        "location:earth_nation",
+        "location:zuko's_ship"
+      ]
+    },
+    {
+      "id": 46,
+      "show": "ALTA",
+      "episode": 7,
+      "quote": "Please Prince Zuko! If the Fire Nation captures you, there is nothing I can do! Do not follow the Avatar.",
+      "tags": [
+        "to:zuko",
+        "location:earth_nation",
+        "location:zuko's_ship"
+      ]
+    },
+    {
+      "id": 47,
+      "show": "ALTA",
+      "episode": 7,
+      "quote": "We're on a collision course!",
+      "tags": [
+        "to:zuko",
+        "location:earth_nation",
+        "location:zuko's_ship"
+      ]
+    },
+    {
+      "id": 48,
+      "show": "ALTA",
+      "episode": 7,
+      "quote": "Because he wants to follow you. He knows you'll lead him to the prize you're both after: the Avatar.",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:fire_nation"
+      ]
+    },
+    {
+      "id": 49,
+      "show": "ALTA",
+      "episode": 8,
+      "quote": "Actually, someone did. I assure you, it is a matter of utmost importance, Prince Zuko.",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 50,
+      "show": "ALTA",
+      "episode": 8,
+      "quote": "Even more urgent. It seems, I- -I have lost my lotus tile.",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 51,
+      "show": "ALTA",
+      "episode": 8,
+      "quote": "For my Pai Sho game. Most people think the lotus tile insignificant, but it is essential for the unusual strategy that I employ.",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 52,
+      "show": "ALTA",
+      "episode": 8,
+      "quote": "See, you, like most people, underestimate it's value. Just give me ten minutes to check the merchants at this port of call. Hopefully, they will have the lotus tile in stock and I can get on with my life. I'm lucky to have such an understanding nephew.",
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 53,
+      "show": "ALTA",
+      "episode": 8,
+      "quote": "I've checked all the shops on this pier. Not a lotus tile in the entire marketplace.",
+      "tags": [
+        "to:zuko",
+        "location:unknown",
+        "location:port",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 54,
+      "show": "ALTA",
+      "episode": 8,
+      "quote": "Quite the contrary. I always say, the only thing better than finding something you are looking for is finding something you weren't looking for at a great bargain!",
+      "tags": [
+        "to:zuko",
+        "location:unknown",
+        "location:port",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 55,
+      "show": "ALTA",
+      "episode": 8,
+      "quote": "For music night on the ship. Now, if we only had some woodwinds. Oh, this place looks promising! Oh, that is handsome! Wouldn't it look magnificent in the galley?",
+      "tags": [
+        "to:zuko",
+        "location:unknown",
+        "location:port",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 56,
+      "show": "ALTA",
+      "episode": 8,
+      "quote": "Yeah, it kind of is.",
+      "tags": [
+        "to:aang",
+        "to:katara",
+        "to:sokka",
+        "to:zuko",
+        "location:unknown",
+        "location:earth_nation"
+      ]
+    },
+    {
+      "id": 57,
+      "show": "ALTA",
+      "episode": 8,
+      "quote": "Are you so busy fighting you cannot see your own ship has set sail?",
+      "tags": []
+    },
+    {
+      "id": 58,
+      "show": "ALTA",
+      "episode": 8,
+      "quote": "It's no proverb!",
+      "tags": []
+    },
+    {
+      "id": 59,
+      "show": "ALTA",
+      "episode": 8,
+      "quote": "Maybe it should be a proverb...",
+      "tags": []
+    },
+    {
+      "id": 60,
+      "show": "ALTA",
+      "episode": 8,
+      "quote": "Prince Zuko, you're really going to get a kick out of this. That lotus tile was in my sleeve the whole time!",
+      "tags": []
+    },
+    {
+      "id": 61,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "There is a storm coming. A big one.",
+      "tags": []
+    },
+    {
+      "id": 62,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "A storm is approaching from the north. I suggest we alter our course and head southwest.",
+      "tags": []
+    },
+    {
+      "id": 63,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "Prince Zuko, consider the safety of the crew.",
+      "tags": []
+    },
+    {
+      "id": 64,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "He doesn't mean that. He's just all worked up.",
+      "tags": []
+    },
+    {
+      "id": 65,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "Lucky guess.",
+      "tags": []
+    },
+    {
+      "id": 66,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "Easy now. Enough! We're all a bit tired from being at sea so long. I'm sure after a bowl of noodles, everyone will feel much better.",
+      "tags": []
+    },
+    {
+      "id": 67,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "Do you really want to know?",
+      "tags": []
+    },
+    {
+      "id": 68,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "It's okay. May I join you?",
+      "tags": []
+    },
+    {
+      "id": 69,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "Try to understand. My nephew is a complicated young man. He has been through much.",
+      "tags": []
+    },
+    {
+      "id": 70,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "Prince Zuko, what's wrong?",
+      "tags": []
+    },
+    {
+      "id": 71,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "You're not missing anything, trust me. These meetings are dreadfully boring.",
+      "tags": []
+    },
+    {
+      "id": 72,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "Very well. But you must promise not to speak. These old folks are a bit sensitive, you know?",
+      "tags": []
+    },
+    {
+      "id": 73,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "Zuko was right, you see, but it was not his place to speak out. And there were dire consequences.",
+      "tags": []
+    },
+    {
+      "id": 74,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "After Zuko's outburst in the meeting, the Fire Lord became very angry with him. He said the challenge against the general was an act of complete disrespect! And there was only one way to resolve this.",
+      "tags": []
+    },
+    {
+      "id": 75,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "That's right. Zuko looked upon the old general he had insulted and declared that he was not afraid. But Zuko misunderstood. When he turned to face his opponent, he was surprised to see it was not the general. Zuko had spoken out against the general's plan, but by doing so in the Fire Lord's war room, it was the Fire Lord whom he had disrespected. Zuko would have to duel his own father.",
+      "tags": []
+    },
+    {
+      "id": 76,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "When Prince Zuko saw that it was his father who had come to duel him, he begged for mercy.",
+      "tags": []
+    },
+    {
+      "id": 77,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "I looked away.",
+      "tags": []
+    },
+    {
+      "id": 78,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "It was no accident. After the duel, the Fire Lord said that by refusing to fight, Zuko had shown shameful weakness. As punishment, he was banished and sent to capture the Avatar. Only then could he return with his honor.",
+      "tags": []
+    },
+    {
+      "id": 79,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "Things will never return to normal. But the important thing is the Avatar gives Zuko hope.",
+      "tags": []
+    },
+    {
+      "id": 80,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "Look!",
+      "tags": []
+    },
+    {
+      "id": 81,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "Then we must head directly into the eye of the storm.",
+      "tags": []
+    },
+    {
+      "id": 82,
+      "show": "ALTA",
+      "episode": 11,
+      "quote": "Your apology is accepted.",
+      "tags": []
+    },
+    {
+      "id": 83,
+      "show": "ALTA",
+      "episode": 12,
+      "quote": "Perhaps, a sporting game of Pai Sho!",
+      "tags": []
+    },
+    {
+      "id": 84,
+      "show": "ALTA",
+      "episode": 12,
+      "quote": "Zhao has been promoted? Well, good for him!",
+      "tags": []
+    },
+    {
+      "id": 85,
+      "show": "ALTA",
+      "episode": 12,
+      "quote": "Excellent! I take the pot! But you're all improving! I'm certain you will win if we play again.",
+      "tags": []
+    },
+    {
+      "id": 86,
+      "show": "ALTA",
+      "episode": 12,
+      "quote": "Is everything okay? It's been almost an hour and you haven't given the men an order.",
+      "tags": []
+    },
+    {
+      "id": 87,
+      "show": "ALTA",
+      "episode": 12,
+      "quote": "Don't give up hope yet. You can still find the Avatar before Zhao.",
+      "tags": []
+    },
+    {
+      "id": 88,
+      "show": "ALTA",
+      "episode": 12,
+      "quote": "Where have you been, Prince Zuko? You missed music night! Lieutenant Jee sang a stirring love song.",
+      "tags": []
+    },
+    {
+      "id": 89,
+      "show": "ALTA",
+      "episode": 14,
+      "quote": "Aahh! See Prince Zuko, a moment of quiet is good for your mental well-being.",
+      "tags": []
+    },
+    {
+      "id": 90,
+      "show": "ALTA",
+      "episode": 14,
+      "quote": "Well, I'm impressed. Very impressed.",
+      "tags": []
+    },
+    {
+      "id": 91,
+      "show": "ALTA",
+      "episode": 14,
+      "quote": "He means no offense! I'm certain you bathe regularly!",
+      "tags": []
+    },
+    {
+      "id": 92,
+      "show": "ALTA",
+      "episode": 14,
+      "quote": "Plus, we'll pay your weight in gold.",
+      "tags": []
+    },
+    {
+      "id": 93,
+      "show": "ALTA",
+      "episode": 14,
+      "quote": "You got it!",
+      "tags": []
+    },
+    {
+      "id": 94,
+      "show": "ALTA",
+      "episode": 14,
+      "quote": "At my age, there's really only one big surprise left, and I'd just as soon leave it a mystery.",
+      "tags": []
+    },
+    {
+      "id": 95,
+      "show": "ALTA",
+      "episode": 14,
+      "quote": "June! No!",
+      "tags": []
+    },
+    {
+      "id": 96,
+      "show": "ALTA",
+      "episode": 14,
+      "quote": "Shhh.",
+      "tags": []
+    },
+    {
+      "id": 97,
+      "show": "ALTA",
+      "episode": 17,
+      "quote": "Winter, spring... Summer, and fall... Winter, spring... Summer, and fall... Four seasons... four loves... Four seasons... for love.",
+      "tags": []
+    },
+    {
+      "id": 98,
+      "show": "ALTA",
+      "episode": 17,
+      "quote": "No, it's about our plans. There's a bit of a problem.",
+      "tags": []
+    },
+    {
+      "id": 99,
+      "show": "ALTA",
+      "episode": 17,
+      "quote": "I'm afraid so. He's taking everyone... even the cook.",
+      "tags": []
+    },
+    {
+      "id": 100,
+      "show": "ALTA",
+      "episode": 17,
+      "quote": "No!",
+      "tags": []
+    },
+    {
+      "id": 101,
+      "show": "ALTA",
+      "episode": 17,
+      "quote": "Just rumors. I don't think he is real.",
+      "tags": []
+    },
+    {
+      "id": 102,
+      "show": "ALTA",
+      "episode": 17,
+      "quote": "The crew wanted me to wish you safe travels.",
+      "tags": []
+    },
+    {
+      "id": 103,
+      "show": "ALTA",
+      "episode": 17,
+      "quote": "It's a lovely night for a walk. Why don't you join me? It would clear your head. Or just stay in your room and sit in the dark. Whatever makes you happy.",
+      "tags": []
+    },
+    {
+      "id": 104,
+      "show": "ALTA",
+      "episode": 17,
+      "quote": "Zuko! Zuko...",
+      "tags": []
+    },
+    {
+      "id": 105,
+      "show": "ALTA",
+      "episode": 17,
+      "quote": "The Fire Lord will not be pleased when he learns who was responsible.",
+      "tags": []
+    },
+    {
+      "id": 106,
+      "show": "ALTA",
+      "episode": 17,
+      "quote": "Yes... pirates. We had a run-in with them a while back. They wanted revenge.",
+      "tags": []
+    },
+    {
+      "id": 107,
+      "show": "ALTA",
+      "episode": 17,
+      "quote": "Yes, I accept. It will be an honor to serve as your general. To the Fire Nation!",
+      "tags": []
+    },
+    {
+      "id": 108,
+      "show": "ALTA",
+      "episode": 17,
+      "quote": "Our plan is working perfectly. Zhao doesn't suspect a thing.",
+      "tags": []
+    },
+    {
+      "id": 109,
+      "show": "ALTA",
+      "episode": 17,
+      "quote": "No nephew of mine is going to stow away on a ship without some backup.",
+      "tags": []
+    },
+    {
+      "id": 110,
+      "show": "ALTA",
+      "episode": 17,
+      "quote": "Someone's coming. Stay hidden until we get to the North Pole and the Avatar will be yours. Good luck.",
+      "tags": []
+    },
+    {
+      "id": 111,
+      "show": "ALTA",
+      "episode": 18,
+      "quote": "Be careful what you wish for, Admiral. History is not always kind to its subjects.",
+      "tags": []
+    },
+    {
+      "id": 112,
+      "show": "ALTA",
+      "episode": 18,
+      "quote": "I hope not, for your sake.",
+      "tags": []
+    },
+    {
+      "id": 113,
+      "show": "ALTA",
+      "episode": 18,
+      "quote": "We'll be landing soon. Do you have a plan?",
+      "tags": []
+    },
+    {
+      "id": 114,
+      "show": "ALTA",
+      "episode": 18,
+      "quote": "It's almost twilight, Admiral. As your military consultant, I must advise you to halt your attack. The waterbenders draw their power from the moon, and it is nearly full tonight. You should wait and resume the attack at daybreak.",
+      "tags": []
+    },
+    {
+      "id": 115,
+      "show": "ALTA",
+      "episode": 18,
+      "quote": "If you're fishing for an octopus my nephew, you need a tightly woven net, or he will squeeze through the tiniest hole and escape.",
+      "tags": []
+    },
+    {
+      "id": 116,
+      "show": "ALTA",
+      "episode": 18,
+      "quote": "I'm sorry. I just nag you, because... well, ever since I lost my son...",
+      "tags": []
+    },
+    {
+      "id": 117,
+      "show": "ALTA",
+      "episode": 18,
+      "quote": "... I think of you as my own.",
+      "tags": []
+    },
+    {
+      "id": 118,
+      "show": "ALTA",
+      "episode": 18,
+      "quote": "Remember your breath of fire. It could save your life out there.",
+      "tags": []
+    },
+    {
+      "id": 119,
+      "show": "ALTA",
+      "episode": 18,
+      "quote": "And put your hood up. Keep your ears warm!",
+      "tags": []
+    },
+    {
+      "id": 120,
+      "show": "ALTA",
+      "episode": 19,
+      "quote": "I don't need to remind you we have a time limit. If we don't defeat the Water Tribe before the full moon rises, they will be undefeatable.",
+      "tags": []
+    },
+    {
+      "id": 121,
+      "show": "ALTA",
+      "episode": 19,
+      "quote": "Remove the moon? How?",
+      "tags": []
+    },
+    {
+      "id": 122,
+      "show": "ALTA",
+      "episode": 19,
+      "quote": "What?",
+      "tags": []
+    },
+    {
+      "id": 123,
+      "show": "ALTA",
+      "episode": 19,
+      "quote": "Zhao, the spirits are not to be trifled with!",
+      "tags": []
+    },
+    {
+      "id": 124,
+      "show": "ALTA",
+      "episode": 19,
+      "quote": "He is right Zhao.",
+      "tags": []
+    },
+    {
+      "id": 125,
+      "show": "ALTA",
+      "episode": 19,
+      "quote": "I'm no traitor, Zhao, the Fire Nation needs the moon, too; we all depend on the balance. Whatever you do to that spirit I'll unleash on you ten-fold. Let it go, now!",
+      "tags": []
+    },
+    {
+      "id": 126,
+      "show": "ALTA",
+      "episode": 19,
+      "quote": "You have been touched by the Moon Spirit. Some of its life is in you.",
+      "tags": []
+    },
+    {
+      "id": 127,
+      "show": "ALTA",
+      "episode": 19,
+      "quote": "I'm surprised Prince Zuko, surprised that you are not at this moment trying to capture the Avatar.",
+      "tags": []
+    },
+    {
+      "id": 128,
+      "show": "ALTA",
+      "episode": 19,
+      "quote": "Then you should rest. A man needs his rest.",
+      "tags": []
+    },
+    {
+      "id": 129,
+      "show": "ALTA",
+      "episode": 20,
+      "quote": "This is what I've been missing. Who knew floating on a piece of driftwood for three weeks with no food or water, and sea vultures waiting to pluck out your liver could make one so tense? I see. It's the anniversary, isn't it?",
+      "tags": []
+    },
+    {
+      "id": 130,
+      "show": "ALTA",
+      "episode": 20,
+      "quote": "I'm sure he doesn't. Why would he banish you if he didn't care? Uh, that came out wrong, didn't it?",
+      "tags": []
+    },
+    {
+      "id": 131,
+      "show": "ALTA",
+      "episode": 20,
+      "quote": "Look at these magnificent shells! I'll enjoy these keepsakes for years to come.",
+      "tags": []
+    },
+    {
+      "id": 132,
+      "show": "ALTA",
+      "episode": 20,
+      "quote": "To what do we owe this honor?",
+      "tags": []
+    },
+    {
+      "id": 133,
+      "show": "ALTA",
+      "episode": 20,
+      "quote": "I'm sure your brother simply needs a moment.",
+      "tags": []
+    },
+    {
+      "id": 134,
+      "show": "ALTA",
+      "episode": 20,
+      "quote": "It is unbelievable. I have never known my brother to regret anything.",
+      "tags": []
+    },
+    {
+      "id": 135,
+      "show": "ALTA",
+      "episode": 20,
+      "quote": "I care about you! And if Ozai wants you back, well, I think it may not be for the reasons you imagine.",
+      "tags": []
+    },
+    {
+      "id": 136,
+      "show": "ALTA",
+      "episode": 20,
+      "quote": "Zuko, I only meant that in our family, things are not always what they seem.",
+      "tags": []
+    },
+    {
+      "id": 137,
+      "show": "ALTA",
+      "episode": 20,
+      "quote": "Wait! Don't leave without me!",
+      "tags": []
+    },
+    {
+      "id": 138,
+      "show": "ALTA",
+      "episode": 20,
+      "quote": "Family sticks together, right?",
+      "tags": []
+    },
+    {
+      "id": 139,
+      "show": "ALTA",
+      "episode": 20,
+      "quote": "Zuko! Let's go!",
+      "tags": []
+    },
+    {
+      "id": 140,
+      "show": "ALTA",
+      "episode": 20,
+      "quote": "I think we're safe here.",
+      "tags": []
+    },
+    {
+      "id": 141,
+      "show": "ALTA",
+      "episode": 21,
+      "quote": "You're looking at the rare white dragon bush. Its leaves make a tea so delicious, it's heartbreaking. That, or it's the white jade, which is poisonous.",
+      "tags": []
+    },
+    {
+      "id": 142,
+      "show": "ALTA",
+      "episode": 21,
+      "quote": "Hmm... delectable tea? Or deadly poison?",
+      "tags": []
+    },
+    {
+      "id": 143,
+      "show": "ALTA",
+      "episode": 21,
+      "quote": "Zuko, remember that plant I thought might be tea?",
+      "tags": []
+    },
+    {
+      "id": 144,
+      "show": "ALTA",
+      "episode": 21,
+      "quote": "I did... and it wasn't.",
+      "tags": []
+    },
+    {
+      "id": 145,
+      "show": "ALTA",
+      "episode": 21,
+      "quote": "When the rash spreads to my throat, I will stop breathing. But look what I found. These are bacui berries, known to cure the poison of the white jade. That, or maka'ole berries that cause blindness.",
+      "tags": []
+    },
+    {
+      "id": 146,
+      "show": "ALTA",
+      "episode": 21,
+      "quote": "But where are we going to go? We're enemies of the Earth Kingdom and fugitives from the Fire Nation.",
+      "tags": []
+    },
+    {
+      "id": 147,
+      "show": "ALTA",
+      "episode": 21,
+      "quote": "But if the Fire Nation discovers us, we'll be turned over to Azula.",
+      "tags": []
+    },
+    {
+      "id": 148,
+      "show": "ALTA",
+      "episode": 21,
+      "quote": "Whoops!",
+      "tags": []
+    },
+    {
+      "id": 149,
+      "show": "ALTA",
+      "episode": 21,
+      "quote": "Yes, my nephew was named after his father, so we just call him Junior.",
+      "tags": []
+    },
+    {
+      "id": 150,
+      "show": "ALTA",
+      "episode": 21,
+      "quote": "Where do you live exactly?",
+      "tags": []
+    },
+    {
+      "id": 151,
+      "show": "ALTA",
+      "episode": 21,
+      "quote": "Thank you for the duck. It was excellent.",
+      "tags": []
+    },
+    {
+      "id": 152,
+      "show": "ALTA",
+      "episode": 21,
+      "quote": "Much practice.",
+      "tags": []
+    },
+    {
+      "id": 153,
+      "show": "ALTA",
+      "episode": 21,
+      "quote": "Junior, where are your manners? You need to thank these nice people.",
+      "tags": []
+    },
+    {
+      "id": 154,
+      "show": "ALTA",
+      "episode": 21,
+      "quote": "What are you doing? These people just showed you great kindness.",
+      "tags": []
+    },
+    {
+      "id": 155,
+      "show": "ALTA",
+      "episode": 23,
+      "quote": "Spare coins for weary travelers?",
+      "tags": []
+    },
+    {
+      "id": 156,
+      "show": "ALTA",
+      "episode": 23,
+      "quote": "They will if you ask nicely. Spare change for a hungry old man?",
+      "tags": []
+    },
+    {
+      "id": 157,
+      "show": "ALTA",
+      "episode": 23,
+      "quote": "The coin is appreciated, but not as much as your smile!",
+      "tags": []
+    },
+    {
+      "id": 158,
+      "show": "ALTA",
+      "episode": 23,
+      "quote": "Not professional anyway. It's a long, long way to Ba Sing Se, but the girls in the city, they look so pretty!",
+      "tags": []
+    },
+    {
+      "id": 159,
+      "show": "ALTA",
+      "episode": 23,
+      "quote": "They kiss so sweet that you really got to meet the girls from Ba Sing Se!",
+      "tags": []
+    },
+    {
+      "id": 160,
+      "show": "ALTA",
+      "episode": 23,
+      "quote": "Such a kind man.",
+      "tags": []
+    },
+    {
+      "id": 161,
+      "show": "ALTA",
+      "episode": 24,
+      "quote": "Where did you get these?",
+      "tags": []
+    },
+    {
+      "id": 162,
+      "show": "ALTA",
+      "episode": 24,
+      "quote": "Mmmm...... mmmm!",
+      "tags": []
+    },
+    {
+      "id": 163,
+      "show": "ALTA",
+      "episode": 24,
+      "quote": "Looks like you did some serious shopping. But where did you get the money?",
+      "tags": []
+    },
+    {
+      "id": 164,
+      "show": "ALTA",
+      "episode": 24,
+      "quote": "To be honest with you, the best tea tastes delicious whether it comes in a porcelain pot or a tin cup. I know we've had some difficult times lately. We've had to struggle just to get by. But it's nothing to be ashamed of. There is a simple honor in poverty.",
+      "tags": []
+    },
+    {
+      "id": 165,
+      "show": "ALTA",
+      "episode": 24,
+      "quote": "Zuko... Even if you did capture the Avatar, I'm not so sure it would solve our problems. Not now.",
+      "tags": []
+    },
+    {
+      "id": 166,
+      "show": "ALTA",
+      "episode": 24,
+      "quote": "No, Zuko! You must never give in to despair. Allow yourself to slip down that road and you surrender to your lowest instincts. In the darkest times, hope is something you give yourself. That is the meaning of inner strength.",
+      "tags": []
+    },
+    {
+      "id": 167,
+      "show": "ALTA",
+      "episode": 24,
+      "quote": "You did? Good, good.",
+      "tags": []
+    },
+    {
+      "id": 168,
+      "show": "ALTA",
+      "episode": 24,
+      "quote": "Wait!",
+      "tags": []
+    },
+    {
+      "id": 169,
+      "show": "ALTA",
+      "episode": 26,
+      "quote": "If the city is as magnificent as its wall, Ba Sing Se must be something to behold. I hope you all may see it someday, if we don't burn it to the ground first!",
+      "tags": []
+    },
+    {
+      "id": 170,
+      "show": "ALTA",
+      "episode": 27,
+      "quote": "Ow... That really hurt my tailbone.",
+      "tags": []
+    },
+    {
+      "id": 171,
+      "show": "ALTA",
+      "episode": 27,
+      "quote": "Here is your tea. You seem a little too young to be traveling alone.",
+      "tags": []
+    },
+    {
+      "id": 172,
+      "show": "ALTA",
+      "episode": 27,
+      "quote": "Perhaps I am.",
+      "tags": []
+    },
+    {
+      "id": 173,
+      "show": "ALTA",
+      "episode": 27,
+      "quote": "I wasn't thinking that.",
+      "tags": []
+    },
+    {
+      "id": 174,
+      "show": "ALTA",
+      "episode": 27,
+      "quote": "I poured your tea because I wanted to and for no other reason.",
+      "tags": []
+    },
+    {
+      "id": 175,
+      "show": "ALTA",
+      "episode": 27,
+      "quote": "You sound like my nephew, always thinking you need to do things on your own, without anyone's support. There is nothing wrong with letting the people who love you help you. Not that I love you, I just met you.",
+      "tags": []
+    },
+    {
+      "id": 176,
+      "show": "ALTA",
+      "episode": 27,
+      "quote": "I've been tracking him actually.",
+      "tags": []
+    },
+    {
+      "id": 177,
+      "show": "ALTA",
+      "episode": 27,
+      "quote": "Yes, a little bit. His life has recently changed and he's going through very difficult times. He's trying to figure out who he is and he went away.",
+      "tags": []
+    },
+    {
+      "id": 178,
+      "show": "ALTA",
+      "episode": 27,
+      "quote": "I know he doesn't want me around him right now, but if he needs me, I'll be there.",
+      "tags": []
+    },
+    {
+      "id": 179,
+      "show": "ALTA",
+      "episode": 27,
+      "quote": "My pleasure. Sharing tea with a fascinating stranger is one of life's true delights.",
+      "tags": []
+    },
+    {
+      "id": 180,
+      "show": "ALTA",
+      "episode": 27,
+      "quote": "I'm glad.",
+      "tags": []
+    },
+    {
+      "id": 181,
+      "show": "ALTA",
+      "episode": 27,
+      "quote": "Get up!",
+      "tags": []
+    },
+    {
+      "id": 182,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "My beloved Lu Ten, I will see you again.",
+      "tags": []
+    },
+    {
+      "id": 183,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "Somehow, that's not so surprising.",
+      "tags": []
+    },
+    {
+      "id": 184,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "Good. That was very... uhhh... bracing.",
+      "tags": []
+    },
+    {
+      "id": 185,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "No, she's crazy, and she needs to go down. It's time to resume your training.",
+      "tags": []
+    },
+    {
+      "id": 186,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "Lightning is a pure form of firebending, without aggression. It is not fueled by rage or emotion the way other firebending is. Some call lightning the cold-blooded fire. It is precise and deadly, like Azula. To perform the technique requires peace of mind.",
+      "tags": []
+    },
+    {
+      "id": 187,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "Oh yeah, good point! I mean, yes. There is energy all around us. The energy is both yin and yang. Positive energy and negative energy. Only a select few firebenders can separate these energies. This creates an imbalance. The energy wants to restore balance, and in a moment the positive and negative energy come crashing back together, you provide release and guidance, creating lightning.",
+      "tags": []
+    },
+    {
+      "id": 188,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "Remember, once you separate the energy, you do not command it. You are simply its humble guide. Breathe first.",
+      "tags": []
+    },
+    {
+      "id": 189,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "I was afraid this might happen. You will not be able to master lightning until you have dealt with the turmoil inside you.",
+      "tags": []
+    },
+    {
+      "id": 190,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "Zuko, you must let go of your feelings of shame if you want your anger to go away.",
+      "tags": []
+    },
+    {
+      "id": 191,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "Prince Zuko, pride is not the opposite of shame, but its source. True humility is the only antidote to shame.",
+      "tags": []
+    },
+    {
+      "id": 192,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "I have another idea. I will teach you a firebending move that even Azula doesn't know, because I made it up myself.",
+      "tags": []
+    },
+    {
+      "id": 193,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "Fire is the element of power. The people of the Fire Nation have desire and will, and the energy to drive and achieve what they want. Earth is the element of substance. The people of the Earth Kingdom are diverse and strong. They are persistent and enduring. Air is the element of freedom. The Air Nomads detached themselves from worldly concerns and found peace and freedom. Also, they apparently had pretty good senses of humor! Water is the element of change. The people of the Water Tribe are capable of adapting to many things. They have a deep sense of community and love that holds them together through anything.",
+      "tags": []
+    },
+    {
+      "id": 194,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "It is important to draw wisdom from many different places. If you take it from only one place, it becomes rigid and stale. Understanding others, the other elements, and the other nations will help you become whole.",
+      "tags": []
+    },
+    {
+      "id": 195,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "It is the combination of the four elements in one person that makes the Avatar so powerful. But it can make you more powerful, too. You see the technique I'm about to teach you is one I learned by studying the waterbenders.",
+      "tags": []
+    },
+    {
+      "id": 196,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "Waterbenders deal with the flow of energy. A waterbender lets their defense become their offense, turning their opponents' energy against them. I learned a way to do this with lightning.",
+      "tags": []
+    },
+    {
+      "id": 197,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "If you let the energy in your own body flow, the lightning will follow it. You must create a pathway from your fingertips, up your arm to your shoulder, then down into your stomach. The stomach is the source of energy in your body. It is called the sea of chi. Only in my case it is more like a vast ocean. From the stomach, you direct it up again, and out the other arm. The stomach detour is critical. You must not let the lightning pass through your heart, or the damage could be deadly. You may wish to try a physical motion, to get a feel for the pathways' flow, like this. Now, are you focusing your energy? Can you feel your own chi flowing in, down, up, and out?",
+      "tags": []
+    },
+    {
+      "id": 198,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "Come on, you've got to feel the flow. Excellent! You've got it!",
+      "tags": []
+    },
+    {
+      "id": 199,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "What, are you crazy? Lightning is very dangerous!",
+      "tags": []
+    },
+    {
+      "id": 200,
+      "show": "ALTA",
+      "episode": 28,
+      "quote": "Yeah! But I'm not going to shoot lightning at you! If you're lucky, you will never have to use this technique at all!",
+      "tags": []
+    },
+    {
+      "id": 201,
+      "show": "ALTA",
+      "episode": 31,
+      "quote": "Who would have thought after all these years, I'd return to the scene of my greatest military disgrace... as a tourist!",
+      "tags": []
+    },
+    {
+      "id": 202,
+      "show": "ALTA",
+      "episode": 31,
+      "quote": "What sort of king is he eating like?",
+      "tags": []
+    },
+    {
+      "id": 203,
+      "show": "ALTA",
+      "episode": 31,
+      "quote": "So, Smellerbee. That's an unusual name for a young man.",
+      "tags": []
+    },
+    {
+      "id": 204,
+      "show": "ALTA",
+      "episode": 31,
+      "quote": "Oh, now I see. It's a beautiful name for a lovely girl!",
+      "tags": []
+    },
+    {
+      "id": 205,
+      "show": "ALTA",
+      "episode": 31,
+      "quote": "It is a magnificent sight.",
+      "tags": []
+    },
+    {
+      "id": 206,
+      "show": "ALTA",
+      "episode": 31,
+      "quote": "Once. When I was a... different man.",
+      "tags": []
+    },
+    {
+      "id": 207,
+      "show": "ALTA",
+      "episode": 31,
+      "quote": "That's very noble of you. I believe people can change their lives if they want to. I believe in second chances.",
+      "tags": []
+    },
+    {
+      "id": 208,
+      "show": "ALTA",
+      "episode": 32,
+      "quote": "It's pronounced Mushi.",
+      "tags": []
+    },
+    {
+      "id": 209,
+      "show": "ALTA",
+      "episode": 32,
+      "quote": "Uh, no, no. But may I just say you're like a flower in bloom. Your beauty is intoxicating.",
+      "tags": []
+    },
+    {
+      "id": 210,
+      "show": "ALTA",
+      "episode": 32,
+      "quote": "Ooh! Jasmine please.",
+      "tags": []
+    },
+    {
+      "id": 211,
+      "show": "ALTA",
+      "episode": 32,
+      "quote": "Blaugh! Ugh, coldest tea in Ba Sing Se is more like it! What a disgrace!",
+      "tags": []
+    },
+    {
+      "id": 212,
+      "show": "ALTA",
+      "episode": 32,
+      "quote": "Hey!",
+      "tags": []
+    },
+    {
+      "id": 213,
+      "show": "ALTA",
+      "episode": 32,
+      "quote": "I know you're not supposed to cry over spilled tea, but... it's just so sad!",
+      "tags": []
+    },
+    {
+      "id": 214,
+      "show": "ALTA",
+      "episode": 32,
+      "quote": "What a handsome baby.",
+      "tags": []
+    },
+    {
+      "id": 215,
+      "show": "ALTA",
+      "episode": 33,
+      "quote": "I just want our place to look nice, in case someone brings home a lady friend!",
+      "tags": []
+    },
+    {
+      "id": 216,
+      "show": "ALTA",
+      "episode": 33,
+      "quote": "Life happens wherever you are, whether you make it or not. Now come on, I found us some new jobs, and we start this afternoon!",
+      "tags": []
+    },
+    {
+      "id": 217,
+      "show": "ALTA",
+      "episode": 33,
+      "quote": "Uh, does this possibly come in a larger size?",
+      "tags": []
+    },
+    {
+      "id": 218,
+      "show": "ALTA",
+      "episode": 33,
+      "quote": "Blech! This tea is nothing more than hot leaf juice!",
+      "tags": []
+    },
+    {
+      "id": 219,
+      "show": "ALTA",
+      "episode": 33,
+      "quote": "How could a member of my own family say something so horrible?! We'll have to make some major changes around here.",
+      "tags": []
+    },
+    {
+      "id": 220,
+      "show": "ALTA",
+      "episode": 33,
+      "quote": "Would you like a pot of tea?",
+      "tags": []
+    },
+    {
+      "id": 221,
+      "show": "ALTA",
+      "episode": 33,
+      "quote": "\"Sick of tea?\" That's like being sick of breathing! Have you seen the spark rocks to heat up the water?",
+      "tags": []
+    },
+    {
+      "id": 222,
+      "show": "ALTA",
+      "episode": 33,
+      "quote": "I borrowed our neighbors'. Such kind people.",
+      "tags": []
+    },
+    {
+      "id": 223,
+      "show": "ALTA",
+      "episode": 33,
+      "quote": "The secret ingredient is love.",
+      "tags": []
+    },
+    {
+      "id": 224,
+      "show": "ALTA",
+      "episode": 33,
+      "quote": "Please, son, you're confused! You don't know what you're doing!",
+      "tags": []
+    },
+    {
+      "id": 225,
+      "show": "ALTA",
+      "episode": 33,
+      "quote": "This poor boy is confused. We're just simple refugees.",
+      "tags": []
+    },
+    {
+      "id": 226,
+      "show": "ALTA",
+      "episode": 33,
+      "quote": "Oh, ho, ho. That's very sweet.",
+      "tags": []
+    },
+    {
+      "id": 227,
+      "show": "ALTA",
+      "episode": 34,
+      "quote": "No, it's not a romantic picnic, but it is a special occasion. The moon flower likes partial shade.",
+      "tags": []
+    },
+    {
+      "id": 228,
+      "show": "ALTA",
+      "episode": 34,
+      "quote": "Leaves from the vine, falling so slow. Like fragile, tiny shells, drifting in the foam. Little soldier boy, come marching home. Brave soldier boy, comes marching home.",
+      "tags": []
+    },
+    {
+      "id": 229,
+      "show": "ALTA",
+      "episode": 34,
+      "quote": "It is usually best to admit mistakes when they occur, and seek to restore honor.",
+      "tags": []
+    },
+    {
+      "id": 230,
+      "show": "ALTA",
+      "episode": 34,
+      "quote": "But not this time. Run!",
+      "tags": []
+    },
+    {
+      "id": 231,
+      "show": "ALTA",
+      "episode": 34,
+      "quote": "What are you doing?",
+      "tags": []
+    },
+    {
+      "id": 232,
+      "show": "ALTA",
+      "episode": 34,
+      "quote": "With that stance?",
+      "tags": []
+    },
+    {
+      "id": 233,
+      "show": "ALTA",
+      "episode": 34,
+      "quote": "With a poor stance, you are unbalanced, and you can be easily knocked over.",
+      "tags": []
+    },
+    {
+      "id": 234,
+      "show": "ALTA",
+      "episode": 34,
+      "quote": "With a solid stance, you are a much more serious threat. Much better! But to tell you the truth, you do not look like the criminal type.",
+      "tags": []
+    },
+    {
+      "id": 235,
+      "show": "ALTA",
+      "episode": 34,
+      "quote": "Of course!",
+      "tags": []
+    },
+    {
+      "id": 236,
+      "show": "ALTA",
+      "episode": 34,
+      "quote": "While it is always best to believe in oneself, a little help from others can be a great blessing.",
+      "tags": []
+    },
+    {
+      "id": 237,
+      "show": "ALTA",
+      "episode": 34,
+      "quote": "Happy birthday, my son. If only I could have helped you. Leaves from the vine, falling so slow. Like fragile, tiny shells, drifting in the foam. Little soldier boy, come marching home. Brave soldier boy, comes marching home.",
+      "tags": []
+    },
+    {
+      "id": 238,
+      "show": "ALTA",
+      "episode": 34,
+      "quote": "You're right, Zuko. I've seen that girl in here quite a lot. Seems to me she has quite a little crush on you.",
+      "tags": []
+    },
+    {
+      "id": 239,
+      "show": "ALTA",
+      "episode": 34,
+      "quote": "He'd love to!",
+      "tags": []
+    },
+    {
+      "id": 240,
+      "show": "ALTA",
+      "episode": 34,
+      "quote": "How was your night, Prince Zuko?",
+      "tags": []
+    },
+    {
+      "id": 241,
+      "show": "ALTA",
+      "episode": 35,
+      "quote": "Uh, it's nothing. Go back to sleep.",
+      "tags": []
+    },
+    {
+      "id": 242,
+      "show": "ALTA",
+      "episode": 36,
+      "quote": "Good tea is its own reward.",
+      "tags": []
+    },
+    {
+      "id": 243,
+      "show": "ALTA",
+      "episode": 36,
+      "quote": "My own tea shop? This is a dream come true!",
+      "tags": []
+    },
+    {
+      "id": 244,
+      "show": "ALTA",
+      "episode": 36,
+      "quote": "I even get to name the shop?",
+      "tags": []
+    },
+    {
+      "id": 245,
+      "show": "ALTA",
+      "episode": 36,
+      "quote": "Did you hear, nephew? This man wants to give us our own tea shop in the Upper Ring of the city!",
+      "tags": []
+    },
+    {
+      "id": 246,
+      "show": "ALTA",
+      "episode": 36,
+      "quote": "So, I was thinking about names for my new tea shop. How about the Jasmine Dragon? It's dramatic, poetic, has a nice ring to it.",
+      "tags": []
+    },
+    {
+      "id": 247,
+      "show": "ALTA",
+      "episode": 36,
+      "quote": "We have a chance for a new life here. If you start stirring up trouble, we could lose all the good things that are happening for us.",
+      "tags": []
+    },
+    {
+      "id": 248,
+      "show": "ALTA",
+      "episode": 36,
+      "quote": "There is nothing wrong with a life of peace and prosperity. I suggest you think about what it is that you want from your life and why.",
+      "tags": []
+    },
+    {
+      "id": 249,
+      "show": "ALTA",
+      "episode": 36,
+      "quote": "What that means is up to you. The Tea Weevil! No, that's stupid.",
+      "tags": []
+    },
+    {
+      "id": 250,
+      "show": "ALTA",
+      "episode": 36,
+      "quote": "So, the Blue Spirit. I wonder who could be behind that mask...",
+      "tags": []
+    },
+    {
+      "id": 251,
+      "show": "ALTA",
+      "episode": 36,
+      "quote": "I was just about to ask you the same thing. What do you plan to do now that you've found the Avatar's bison? Keep him locked in our new apartment? Should I go put on a pot of tea for him?",
+      "tags": []
+    },
+    {
+      "id": 252,
+      "show": "ALTA",
+      "episode": 36,
+      "quote": "And then what!? You never think these things through! This is exactly what happened when you captured the Avatar at the North Pole! You had him, and then you had nowhere to go!",
+      "tags": []
+    },
+    {
+      "id": 253,
+      "show": "ALTA",
+      "episode": 36,
+      "quote": "No! If his friends hadn't found you, you would have frozen to death!",
+      "tags": []
+    },
+    {
+      "id": 254,
+      "show": "ALTA",
+      "episode": 36,
+      "quote": "Is it your own destiny, or is it a destiny someone else has tried to force on you?",
+      "tags": []
+    },
+    {
+      "id": 255,
+      "show": "ALTA",
+      "episode": 36,
+      "quote": "I'm begging you, Prince Zuko! It's time for you to look inward and begin asking yourself the big questions. Who are you, and what do you want?",
+      "tags": []
+    },
+    {
+      "id": 256,
+      "show": "ALTA",
+      "episode": 36,
+      "quote": "You did the right thing, nephew. Leave it behind.",
+      "tags": []
+    },
+    {
+      "id": 257,
+      "show": "ALTA",
+      "episode": 37,
+      "quote": "You did the right thing. Letting the Avatar's bison go free.",
+      "tags": []
+    },
+    {
+      "id": 258,
+      "show": "ALTA",
+      "episode": 37,
+      "quote": "Zuko!",
+      "tags": []
+    },
+    {
+      "id": 259,
+      "show": "ALTA",
+      "episode": 37,
+      "quote": "You're burning up. You have an intense fever. This will help cool you down.",
+      "tags": []
+    },
+    {
+      "id": 260,
+      "show": "ALTA",
+      "episode": 37,
+      "quote": "Here's some clean water to drink. Stay under the blankets and sweat this out.",
+      "tags": []
+    },
+    {
+      "id": 261,
+      "show": "ALTA",
+      "episode": 37,
+      "quote": "You should know that this is not a natural sickness, but that shouldn't stop you from enjoying tea.",
+      "tags": []
+    },
+    {
+      "id": 262,
+      "show": "ALTA",
+      "episode": 37,
+      "quote": "Your critical decision. What you did beneath that lake. It was in such conflict with your image of yourself that you are now at war within your own mind and body.",
+      "tags": []
+    },
+    {
+      "id": 263,
+      "show": "ALTA",
+      "episode": 37,
+      "quote": "You are going through a metamorphosis, my nephew. It will not be a pleasant experience, but when you come out of it, you will be the beautiful prince you were always meant to be.",
+      "tags": []
+    },
+    {
+      "id": 264,
+      "show": "ALTA",
+      "episode": 38,
+      "quote": "It's jook. I'm sure you wouldn't like it.",
+      "tags": []
+    },
+    {
+      "id": 265,
+      "show": "ALTA",
+      "episode": 38,
+      "quote": "Now that your fever is gone, you seem different somehow.",
+      "tags": []
+    },
+    {
+      "id": 266,
+      "show": "ALTA",
+      "episode": 38,
+      "quote": "Who thought when we came to this city as refugees, that I'd end up owning my own tea shop? Follow your passion, Zuko, and life will reward you.",
+      "tags": []
+    },
+    {
+      "id": 267,
+      "show": "ALTA",
+      "episode": 38,
+      "quote": "I am very thankful.",
+      "tags": []
+    },
+    {
+      "id": 268,
+      "show": "ALTA",
+      "episode": 38,
+      "quote": "No. I'm thankful because you decided to share this special day with me. It means more than you know.",
+      "tags": []
+    },
+    {
+      "id": 269,
+      "show": "ALTA",
+      "episode": 38,
+      "quote": "Yes, let's make some tea!",
+      "tags": []
+    },
+    {
+      "id": 270,
+      "show": "ALTA",
+      "episode": 38,
+      "quote": "I'm brewing as fast as I can!",
+      "tags": []
+    },
+    {
+      "id": 271,
+      "show": "ALTA",
+      "episode": 38,
+      "quote": "I... I can't believe it!",
+      "tags": []
+    },
+    {
+      "id": 272,
+      "show": "ALTA",
+      "episode": 38,
+      "quote": "Great news! We've been invited to serve tea to the Earth King!",
+      "tags": []
+    },
+    {
+      "id": 273,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "Many times I imagined myself here, at the threshold of the palace. But I always thought I would be here as a conqueror. Instead, we are the Earth King's personal guests, here to serve him tea. Destiny is a funny thing.",
+      "tags": []
+    },
+    {
+      "id": 274,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "Maybe the Earth King overslept.",
+      "tags": []
+    },
+    {
+      "id": 275,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "Did I ever tell you how I got the nickname \"The Dragon of the West\"?",
+      "tags": []
+    },
+    {
+      "id": 276,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "It's more of a demonstration, really.",
+      "tags": []
+    },
+    {
+      "id": 277,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "Come on! You'll be fine!",
+      "tags": []
+    },
+    {
+      "id": 278,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "I need your help.",
+      "tags": []
+    },
+    {
+      "id": 279,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "May I come in? Princess Azula is here in Ba Sing Se.",
+      "tags": []
+    },
+    {
+      "id": 280,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "She has captured my nephew as well.",
+      "tags": []
+    },
+    {
+      "id": 281,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "I know how you must feel about my nephew. But believe me when I tell you that there is good inside him.",
+      "tags": []
+    },
+    {
+      "id": 282,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "I brought someone along who might help us.",
+      "tags": []
+    },
+    {
+      "id": 283,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "None taken.",
+      "tags": []
+    },
+    {
+      "id": 284,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "The key to both is proper aging. What's on your mind?",
+      "tags": []
+    },
+    {
+      "id": 285,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "Perfection and power are overrated. I think you were very wise to choose happiness and love.",
+      "tags": []
+    },
+    {
+      "id": 286,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "I don't know the answer. Sometimes, life is like this dark tunnel. You can't always see the light at the end of the tunnel, but if you just keep moving, you will come to a better place.",
+      "tags": []
+    },
+    {
+      "id": 287,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "Zuko, it's time we talked. Go help you other friends. We'll catch up with you.",
+      "tags": []
+    },
+    {
+      "id": 288,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "You're not the man you used to be, Zuko. You are stronger and wiser and freer than you have ever been. And now you have come to the crossroads of your destiny. It's time for you to choose. It's time for you to choose good.",
+      "tags": []
+    },
+    {
+      "id": 289,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "The kind of redemption she offers is not for you.",
+      "tags": []
+    },
+    {
+      "id": 290,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "Zuko, I am begging you. Look into your heart and see what it is that you truly want.",
+      "tags": []
+    },
+    {
+      "id": 291,
+      "show": "ALTA",
+      "episode": 39,
+      "quote": "You've got to get out of here! I'll hold them off as long as I can!",
+      "tags": []
+    },
+    {
+      "id": 292,
+      "show": "ALTA",
+      "episode": 45,
+      "quote": "No. He wasn't.",
+      "tags": []
+    },
+    {
+      "id": 293,
+      "show": "ALTA",
+      "episode": 45,
+      "quote": "You have more than one great-grandfather, Prince Zuko. Sozin was your father's grandfather. Your mother's grandfather was Avatar Roku.",
+      "tags": []
+    },
+    {
+      "id": 294,
+      "show": "ALTA",
+      "episode": 45,
+      "quote": "Because understanding the struggle between your two great-grandfathers can help you better understand the battle within yourself. Evil and good are always at war inside you, Zuko. It is your nature, your legacy. But, there is a bright side. What happened generations ago can be resolved now, by you. Because of your legacy, you alone can cleanse the sins of our family and the Fire Nation. Born in you, along with all the strife, is the power to restore balance to the world.",
+      "tags": []
+    },
+    {
+      "id": 295,
+      "show": "ALTA",
+      "episode": 45,
+      "quote": "This is a royal artifact. It's supposed to be worn by the Crown Prince.",
+      "tags": []
+    },
+    {
+      "id": 296,
+      "show": "ALTA",
+      "episode": 49,
+      "quote": "Thank you, Ming. Ever since I was put in here, you have been very kind to me.",
+      "tags": []
+    },
+    {
+      "id": 297,
+      "show": "ALTA",
+      "episode": 49,
+      "quote": "Thank you, Ming. Your little gestures of kindness have made my days in prison bearable. I think you should take the rest of the day off.",
+      "tags": []
+    },
+    {
+      "id": 298,
+      "show": "ALTA",
+      "episode": 49,
+      "quote": "You don't look well. Maybe you should go home and rest.",
+      "tags": []
+    },
+    {
+      "id": 299,
+      "show": "ALTA",
+      "episode": 49,
+      "quote": "Trust me. It is better that you are not here this afternoon.",
+      "tags": []
+    },
+    {
+      "id": 300,
+      "show": "ALTA",
+      "episode": 51,
+      "quote": "What a stunning view.",
+      "tags": []
+    },
+    {
+      "id": 301,
+      "show": "ALTA",
+      "episode": 51,
+      "quote": "You know, the Avatar hasn't been seen for one hundred years. The chances of finding him here are very slim.",
+      "tags": []
+    },
+    {
+      "id": 302,
+      "show": "ALTA",
+      "episode": 51,
+      "quote": "Prince Zuko, it's only been a week since your banishment. You should take some time to heal and rest.",
+      "tags": []
+    },
+    {
+      "id": 303,
+      "show": "ALTA",
+      "episode": 51,
+      "quote": "You know Prince Zuko, destiny is a funny thing. You never know how things are going to work out. But if you keep an open mind, and an open heart, I promise you will find your own destiny someday.",
+      "tags": []
+    },
+    {
+      "id": 304,
+      "show": "ALTA",
+      "episode": 56,
+      "quote": "Prince Zuko, you must try this cake!",
+      "tags": []
+    },
+    {
+      "id": 305,
+      "show": "ALTA",
+      "episode": 56,
+      "quote": "Well, while you do that, maybe I'll capture another slice.",
+      "tags": []
+    },
+    {
+      "id": 306,
+      "show": "ALTA",
+      "episode": 56,
+      "quote": "Let's forget about the Avatar and get massages!",
+      "tags": []
+    },
+    {
+      "id": 307,
+      "show": "ALTA",
+      "episode": 56,
+      "quote": "Zuko, it's time we had a talk... about your hair, it's gone too far!",
+      "tags": []
+    },
+    {
+      "id": 308,
+      "show": "ALTA",
+      "episode": 56,
+      "quote": "Choose treachery, it's more fun!",
+      "tags": []
+    },
+    {
+      "id": 309,
+      "show": "ALTA",
+      "episode": 58,
+      "quote": "I was never angry with you. I was sad because I was afraid you had lost your way.",
+      "tags": []
+    },
+    {
+      "id": 310,
+      "show": "ALTA",
+      "episode": 58,
+      "quote": "But you found it again. And you did it by yourself. And I am so happy you found your way here.",
+      "tags": []
+    },
+    {
+      "id": 311,
+      "show": "ALTA",
+      "episode": 58,
+      "quote": "Hmmm...",
+      "tags": []
+    },
+    {
+      "id": 312,
+      "show": "ALTA",
+      "episode": 58,
+      "quote": "No, Zuko, it won't turn out well.",
+      "tags": []
+    },
+    {
+      "id": 313,
+      "show": "ALTA",
+      "episode": 58,
+      "quote": "Even if I did defeat Ozai, and I don't know that I could, it would be the wrong way to end the war. History would see it as just more senseless violence, a brother killing a brother to grab power. The only way for this war to end peacefully is for the Avatar to defeat the Fire Lord.",
+      "tags": []
+    },
+    {
+      "id": 314,
+      "show": "ALTA",
+      "episode": 58,
+      "quote": "No. Someone new must take the throne. An idealist with a pure heart and unquestionable honor. It has to be you, Prince Zuko.",
+      "tags": []
+    },
+    {
+      "id": 315,
+      "show": "ALTA",
+      "episode": 58,
+      "quote": "Yes, you have. You've struggled; you've suffered, but you have always followed your own path. You restored your own honor, and only you can restore the honor of the Fire Nation.",
+      "tags": []
+    },
+    {
+      "id": 316,
+      "show": "ALTA",
+      "episode": 58,
+      "quote": "Sozin's Comet is arriving, and our destinies are upon us. Aang will face the Fire Lord. When I was a boy, I had a vision that I would one day take Ba Sing Se. Only now do I see that my destiny is to take it back from the Fire Nation, so the Earth Kingdom can be free again.",
+      "tags": []
+    },
+    {
+      "id": 317,
+      "show": "ALTA",
+      "episode": 58,
+      "quote": "Yes. Zuko, you must return to the Fire Nation, so that when the Fire Lord falls, you can assume the throne and restore peace and order. But Azula will be there, waiting for you.",
+      "tags": []
+    },
+    {
+      "id": 318,
+      "show": "ALTA",
+      "episode": 58,
+      "quote": "Not alone! You'll need help.",
+      "tags": []
+    },
+    {
+      "id": 319,
+      "show": "ALTA",
+      "episode": 58,
+      "quote": "What do you think it is?",
+      "tags": []
+    },
+    {
+      "id": 320,
+      "show": "ALTA",
+      "episode": 58,
+      "quote": "After I re-conquer Ba Sing Se, I'm going to re-conquer my tea shop, and I'm going to play Pai Sho every day.",
+      "tags": []
+    },
+    {
+      "id": 321,
+      "show": "ALTA",
+      "episode": 58,
+      "quote": "Goodbye, everyone. Today, destiny is our friend. I know it.",
+      "tags": []
+    },
+    {
+      "id": 322,
+      "show": "TLOK",
+      "episode": 70,
+      "quote": "Tell her we will be arriving in three days' time. And that I look forward to winning back Republic City, together.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 323,
+      "show": "TLOK",
+      "episode": 71,
+      "quote": "Hmm... Amon had to know we were coming. So why aren't we meeting any resistance?",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 324,
+      "show": "TLOK",
+      "episode": 71,
+      "quote": "Something's not right. It's a trick! Water and earthbenders, detonate those mines! What is that sound?",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 325,
+      "show": "TLOK",
+      "episode": 71,
+      "quote": "Avatar Korra? You saved my life. Thank you.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 326,
+      "show": "TLOK",
+      "episode": 71,
+      "quote": "I was prepared to deal with Sato's mecha tanks, but not these new high-speed aircraft.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 327,
+      "show": "TLOK",
+      "episode": 71,
+      "quote": "Amon is winning so far, but we're not out of the fight yet.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 328,
+      "show": "TLOK",
+      "episode": 71,
+      "quote": "A second wave of reinforcements is on the way, but I need to warn them. Do you still have a way to get a message out?",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 329,
+      "show": "TLOK",
+      "episode": 71,
+      "quote": "Commander Bumi. Second division of the United Forces.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 330,
+      "show": "TLOK",
+      "episode": 71,
+      "quote": "Yes, bit of a wild man, but the bravest commander you'll ever meet.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 331,
+      "show": "TLOK",
+      "episode": 71,
+      "quote": "Fleet ambushed and destroyed by Equalist aircraft. Retreat to Red Sand Island until my signal. Do not approach city until you receive the all clear. Now comes the hard part. We need to ground those aircrafts. Otherwise, Bumi's fleet would never be able to retake the city.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 332,
+      "show": "TLOK",
+      "episode": 71,
+      "quote": "Everyone get ready, we leave at dawn.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 333,
+      "show": "TLOK",
+      "episode": 71,
+      "quote": "That's not a good plan. We need to stick together.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 334,
+      "show": "TLOK",
+      "episode": 71,
+      "quote": "Korra, this is not a mission you should be handling alone.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 335,
+      "show": "TLOK",
+      "episode": 71,
+      "quote": "Hmm... My grandfather would respect the Avatar's instinct. So will I.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 336,
+      "show": "TLOK",
+      "episode": 72,
+      "quote": "I think we've found our secret airfield. Bolin, once we get down there, I need you to tear up those runways. We can't let those aircraft take off.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 337,
+      "show": "TLOK",
+      "episode": 72,
+      "quote": "I don't suppose you know how to metalbend?",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 338,
+      "show": "TLOK",
+      "episode": 72,
+      "quote": "I'm going after those airplanes.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 339,
+      "show": "TLOK",
+      "episode": 72,
+      "quote": "Thanks for looking out for me, Aang.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 340,
+      "show": "TLOK",
+      "episode": 77,
+      "quote": "What can I do?",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 341,
+      "show": "TLOK",
+      "episode": 77,
+      "quote": "I see. Well, suppose I were to take the fleet South on some routine training maneuvers. And let's say we were to accidentally run into a hostile Northern blockade. We'd have no choice but to defend ourselves, wouldn't we?",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 342,
+      "show": "TLOK",
+      "episode": 77,
+      "quote": "Mr. President.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 343,
+      "show": "TLOK",
+      "episode": 77,
+      "quote": "Of course not, sir.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 344,
+      "show": "TLOK",
+      "episode": 77,
+      "quote": "Crystal, sir.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 345,
+      "show": "TLOK",
+      "episode": 77,
+      "quote": "I'm sorry. My hands are officially tied.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 346,
+      "show": "TLOK",
+      "episode": 77,
+      "quote": "But you should talk to the Fire Lord. My mother and grandfather have always been good friends with the Avatar, and the Southern Water Tribe. I'm sure they'll be willing to help.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 347,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "You two look lost. Maybe I can help you.",
+      "tags": []
+    },
+    {
+      "id": 348,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "I was good friends with Avatar Aang.",
+      "tags": []
+    },
+    {
+      "id": 349,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "Hello, Korra.",
+      "tags": []
+    },
+    {
+      "id": 350,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "I'm glad you came to visit us in the Spirit World, Korra. You came just in time. We're having a little tea party, to celebrate May-Jim's wedding.",
+      "tags": []
+    },
+    {
+      "id": 351,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "The Spirit World is very mysterious, but so is love. Help yourself to some tea and cakes. They are spirit cakes, so you won't gain any weight- of course, you won't lose any either!",
+      "tags": []
+    },
+    {
+      "id": 352,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "That's right. It was yours long, long ago. When you were Avatar Wan, you used it to carry the light spirit, Raava, around- until the two of you became one. It is my favorite thing I found here. You know, when you make tea in it, you can still taste a little light in every cup.",
+      "tags": []
+    },
+    {
+      "id": 353,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "They say that the game of Pai Sho was invented by the spirits... although some of them don't seem to grasp it very well.",
+      "tags": []
+    },
+    {
+      "id": 354,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "As you can see, it is a game that requires great patience. But time does not mean much to us here.",
+      "tags": []
+    },
+    {
+      "id": 355,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "Oh, I've been here for many years. I had always enjoyed the company of the spirits, so when my work was done in the material world, I chose to leave my body behind and come to the Spirit World! It can be a wonderful place, and I've made so many friends. Korra, what's wrong?",
+      "tags": []
+    },
+    {
+      "id": 356,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "You're not alone Korra, it's okay.",
+      "tags": []
+    },
+    {
+      "id": 357,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "Korra, please stop! Look at what you're doing to everyone!",
+      "tags": []
+    },
+    {
+      "id": 358,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "In the Spirit World, your emotions become your reality- especially for the Avatar, because you are the bridge between the two worlds. You must try to stay positive.",
+      "tags": []
+    },
+    {
+      "id": 359,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "There, you see?",
+      "tags": []
+    },
+    {
+      "id": 360,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "Even in the material world, you will find that if you look for the light, you can often find it. But if you look for the dark, that is all you will ever see.",
+      "tags": []
+    },
+    {
+      "id": 361,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "I'm afraid finding her won't be so easy.",
+      "tags": []
+    },
+    {
+      "id": 362,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "Sometimes the best way to solve your own problems is to help someone else. This little fellow needs to go home as well. Maybe if you help him find his friends, you will be able to find yours.",
+      "tags": []
+    },
+    {
+      "id": 363,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "The dragon bird nest is located there, at the top of Hai-Riyo Peak.",
+      "tags": []
+    },
+    {
+      "id": 364,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "This is something that you must do on your own. The people who have been coming to the Spirit World lately have brought darkness and anger. So that is what you see now. But you have light and peace inside of you. If you let it out, you can change the world around you. Besides, look at this little fellow. This mountain is his home. When you first met him, you were frightened. But does he seem scary to you now?",
+      "tags": []
+    },
+    {
+      "id": 365,
+      "show": "TLOK",
+      "episode": 82,
+      "quote": "Many things that seem threatening in the dark become welcoming when we shine light on them. It was good to meet you. Come visit me again - in this life, or the next.",
+      "tags": []
+    },
+    {
+      "id": 366,
+      "show": "TLOK",
+      "episode": 85,
+      "quote": "Almost forty years. It's nice to see you again.",
+      "tags": []
+    },
+    {
+      "id": 367,
+      "show": "TLOK",
+      "episode": 85,
+      "quote": "My friendly spirit fox told me you were lost, I came to show you the way out.",
+      "tags": []
+    },
+    {
+      "id": 368,
+      "show": "TLOK",
+      "episode": 85,
+      "quote": "I'm sorry to hear that. But you shouldn't be here, Vaatu has escaped and darkness threatens to take over.",
+      "tags": []
+    },
+    {
+      "id": 369,
+      "show": "TLOK",
+      "episode": 85,
+      "quote": "I understand. But I beg you to be careful, if you travel too deep into the Spirit World, you could end up in a place where only the lost will ever find you.",
+      "tags": []
+    },
+    {
+      "id": 370,
+      "show": "TLOK",
+      "episode": 86,
+      "quote": "Yes, Mr. President. But I need to know what kind of enemy we're dealing with.",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 371,
+      "show": "TLOK",
+      "episode": 86,
+      "quote": "Fire!",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 372,
+      "show": "TLOK",
+      "episode": 97,
+      "quote": "Please don't hurt me, Korra. I'm just an old man.",
+      "tags": []
+    },
+    {
+      "id": 373,
+      "show": "TLOK",
+      "episode": 97,
+      "quote": "I was just out searching for a new teapot to add to my collection. But instead, I found you. In the Spirit World, you always seem to find something you don't know you were looking for. You look troubled.",
+      "tags": []
+    },
+    {
+      "id": 374,
+      "show": "TLOK",
+      "episode": 97,
+      "quote": "Sit. What is on your mind?",
+      "tags": []
+    },
+    {
+      "id": 375,
+      "show": "TLOK",
+      "episode": 97,
+      "quote": "Just because you are the Avatar, doesn't mean you will have all the answers.",
+      "tags": []
+    },
+    {
+      "id": 376,
+      "show": "TLOK",
+      "episode": 97,
+      "quote": "You know, Zuko and Aang were close friends.",
+      "tags": []
+    },
+    {
+      "id": 377,
+      "show": "TLOK",
+      "episode": 97,
+      "quote": "Yes, my nephew. Their relationship started off a little rocky, but they grew to become lifelong friends. Best friends.",
+      "tags": []
+    },
+    {
+      "id": 378,
+      "show": "TLOK",
+      "episode": 110,
+      "quote": "Mister President, do I have your order to engage?",
+      "tags": [
+        "iroh_jr"
+      ]
+    },
+    {
+      "id": 379,
+      "show": "TLOK",
+      "episode": 110,
+      "quote": "Get back to the city before she sees you. And Korra -- --find a way to beat that thing.",
+      "tags": [
+        "iroh_jr"
+      ]
+    }
+  ]
+}
